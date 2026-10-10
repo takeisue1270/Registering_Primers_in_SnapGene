@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "snapgene-primer-registrar"
+abstract: "Matches oligo sequences from an Excel oligo-management sheet against SnapGene .dna files and registers the full, exact matches as primers, verifying each binding position before and after writing."
+type: software
+authors:
+  - family-names: "Takesue"
+    given-names: "Hiroaki"
+    orcid: "https://orcid.org/0000-0001-8585-5494"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/takeisue1270/Registering_Primers_in_SnapGene"
+url: "https://github.com/takeisue1270/Registering_Primers_in_SnapGene"
+keywords:
+  - SnapGene
+  - primers
+  - oligos
+  - plasmid
+  - laboratory automation
