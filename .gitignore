@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Never accidentally commit real lab data or run artifacts.
+*.dna
+*.xlsx
+primer_registration_report_*.csv
+_primer_registration_backups/
