@@ -1,0 +1,22 @@
+{
+  "title": "snapgene-primer-registrar",
+  "upload_type": "software",
+  "description": "<p>Matches oligo sequences from an Excel oligo-management sheet against SnapGene <code>.dna</code> files and registers the full, exact matches as primers. Each binding position is verified against the plasmid sequence before writing and re-read from disk afterwards, and every run is a dry run unless <code>--apply</code> is given.</p>",
+  "license": "mit-license",
+  "access_right": "open",
+  "version": "v0.1.0",
+  "creators": [
+    {
+      "name": "Takesue, Hiroaki",
+      "orcid": "0000-0001-8585-5494"
+    }
+  ],
+  "keywords": [
+    "SnapGene",
+    "primers",
+    "oligonucleotides",
+    "plasmid",
+    "laboratory automation"
+  ],
+  "related_identifiers": []
+}
