@@ -1,7 +1,5 @@
 # snapgene-primer-registrar
 
-*[日本語版 README はこちら](README.ja.md)*
-
 Matches oligo sequences from an Excel oligo-management sheet against SnapGene
 `.dna` plasmid files and automatically registers, as a "primer" on the
 plasmid, only the oligos whose sequence is a **full, exact match**.
